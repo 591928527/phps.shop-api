@@ -11,6 +11,7 @@
 
 // [ 应用入口文件 ]
 namespace think;
+header('X-Powered-By:ThinkPHP'); 
 // 加载基础文件
 require __DIR__ . '/../thinkphp/base.php';
 
