@@ -11,7 +11,7 @@
 API端：https://github.com/baok1592/phps.shop-api <br/>
 小程序端：https://github.com/baok1592/phps.shop-program <br/>
 CMS端：https://github.com/baok1592/phps.shop-cms <br/>
-微信网页端：https://github.com/baok1592/phps.shop-wxwap （完善中）
+微信网页端：加QQ群获取
 
 
 ## API端的安装使用  
