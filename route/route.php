@@ -1,7 +1,7 @@
 <?php
 
-Route::get('think', function () {
-    return 'hello,ThinkPHP5!';
+Route::get('', function () {
+    return '欢迎使用，如花拼团!';
 });
 
 Route::get(':version/banners', 'api/:version.Banner/getbanners');//获取所有广告位
