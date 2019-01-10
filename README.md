@@ -7,6 +7,9 @@
 这是第一次用vue做项目，边学边做。代码很粗糙，后期会不断优化。<br/>
 做这个开源项目，纯粹是为了学习交流，很多不足的地方欢迎大家指教。<br/>  
 
+## VUE
+CMS后台和商城网页版均是vue开发，网页版将在下个版本发布
+
 ## 演示
 ![xcx.jpg](https://upload-images.jianshu.io/upload_images/7764460-362b87a3d382fb4b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
