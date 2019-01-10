@@ -1,12 +1,7 @@
 <?php
 
-<<<<<<< HEAD:如花拼团API端/route/route.php
 Route::get('/', function () {
     return '欢迎使用';
-=======
-Route::get('think', function () {
-    return 'hello,ThinkPHP5!';
->>>>>>> parent of 2df4a66... Update route.php:route/route.php
 });
 //团购
 Route::get(':version/category/:id/tg_pro', 'api/:version.Product/getTgPros');//某分类下所有团购商品
