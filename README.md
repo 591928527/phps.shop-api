@@ -7,8 +7,8 @@
 这是第一次用vue做项目，边学边做。代码很粗糙，后期会不断优化。<br/>
 做这个开源项目，纯粹是为了学习交流，很多不足的地方欢迎大家指教。<br/>  
 
-## 下载
-Github：https://github.com/baok1592/phps.shop-api <br/> 
+## 演示
+![xcx.jpg](https://upload-images.jianshu.io/upload_images/7764460-362b87a3d382fb4b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 文档
 http://www.phps.shop/doc/
